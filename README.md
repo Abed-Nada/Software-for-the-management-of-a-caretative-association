@@ -15,16 +15,16 @@ We developed the software using Java for both the application logic and graphica
 
 ## Some Screenshots
 <p align="center">
-  <img width="400"; src="https://github.com/RB-Younes/Software-for-the-management-of-a-caretative-association/assets/108153787/d72a0cad-f676-4df1-9f5f-0a85d452d23f">
-  <img width="400"; src="https://github.com/RB-Younes/Software-for-the-management-of-a-caretative-association/assets/108153787/76224337-d7f0-4808-9c72-5cab95aa6367">
-  <img width="400"; src="https://github.com/RB-Younes/Software-for-the-management-of-a-caretative-association/assets/108153787/ef23f1be-744e-45db-be27-91c243f7bbf7">
-  <img width="400"; src="https://github.com/RB-Younes/Software-for-the-management-of-a-caretative-association/assets/108153787/fd3f22ef-c0b4-4f5d-a3dd-6fe9ad2d9324">
-  <img width="400"; src="https://github.com/RB-Younes/Software-for-the-management-of-a-caretative-association/assets/108153787/2edfc339-0c7a-47e7-b6cd-584ac0d4e799">
+  <img width="400"; src="https://github.com/NaaaaaaaaaaDaa/Software-for-the-management-of-a-caretative-association/assets/86803554/de4d74a8-3c66-415a-958c-078c7b074219">
+  <img width="400"; src="https://github.com/NaaaaaaaaaaDaa/Software-for-the-management-of-a-caretative-association/assets/86803554/685f14ce-1b37-4c21-b346-59f3b55d47f7">
+  <img width="400"; src="https://github.com/NaaaaaaaaaaDaa/Software-for-the-management-of-a-caretative-association/assets/86803554/79c5feb6-3d22-4126-98ad-d9dfc6106c0c">
+  <img width="400"; src="https://github.com/NaaaaaaaaaaDaa/Software-for-the-management-of-a-caretative-association/assets/86803554/120b933d-f5af-4a51-9a25-e741d6dd4236">
+  <img width="400"; src="https://github.com/NaaaaaaaaaaDaa/Software-for-the-management-of-a-caretative-association/assets/86803554/66ae5f21-26c7-42c5-9d90-d3f1ab318760">
 </p>
 
 
 
-## Contributors
-
-- [@RB-Younes](https://github.com/RB-Younes)
+## Collaborators
 - [@NaaaaaaaaaaDaa](https://github.com/NaaaaaaaaaaDaa)
+- [@RB-Younes](https://github.com/RB-Younes)
+
